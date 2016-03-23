@@ -14,7 +14,7 @@ import java.util.Scanner;
  */
 public class GameModel {
 
-    private int sum;
+    private int sum = 1;
     private int goalNum;
 
     private Cell[][] cells;
